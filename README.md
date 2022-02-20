@@ -1,7 +1,7 @@
 # StockPriceForecasting
 A deep learning model which predicts the future value of stocks upto 30 days.
 
-[![](stock1.PNG)]
+![](stock1.PNG)
 [![](predicted_stockprices.png)]
 [![](predicted_stockprices_complete.png)]
 ## Inspiration
