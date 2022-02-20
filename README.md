@@ -1,10 +1,9 @@
 # StockPriceForecasting
 A deep learning model which predicts the future value of stocks upto 30 days.
 
-
-
 [![](stock1.PNG)]
-
+[![](predicted_stockprices.png)]
+[![](predicted_stockprices_complete.png)]
 ## Inspiration
 Whatsapp is an excellent platform for groups with friends, family and colleagues to coexist. Over the years we would have sent out thousands of messages and read millions of messages in the app. A lot of insights can be dug up from just a single chat. 
 
